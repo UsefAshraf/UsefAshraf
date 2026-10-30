@@ -90,8 +90,11 @@ I'm a Full Stack Software Engineer based in Cairo, Egypt. I've worked on **Egypt
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=UsefAshraf&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsefAshraf&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UsefAshraf&theme=github" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UsefAshraf&theme=github" alt="Top languages" />
+</p>
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com/?user=UsefAshraf&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
