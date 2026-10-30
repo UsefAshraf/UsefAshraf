@@ -2,6 +2,7 @@
 <h3 align="center">Full Stack Software Engineer · React · Next.js · Node.js · .NET · Odoo</h3>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/youssef-ashraf0/"><img src="https://img.shields.io/badge/LinkedIn-youssef--ashraf0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:usefashraf.dev@gmail.com"><img src="https://img.shields.io/badge/Email-usefashraf.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
@@ -87,4 +88,4 @@ I'm a Full Stack Software Engineer based in Cairo, Egypt. I've worked on **Egypt
 
 ---
 
-<p align="center">📫 Open to opportunities — reach me at <a href="mailto:usefashraf.dev@gmail.com">usefashraf.dev@gmail.com</a></p>
+<p align="center">📫 Open to opportunities — reach me at <a href="mailto:usefashraf.dev@gmail.com">usefashraf.dev@gmail.com</a> or on <a href="https://www.linkedin.com/in/youssef-ashraf0/">LinkedIn</a></p>
